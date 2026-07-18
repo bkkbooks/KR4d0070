@@ -477,6 +477,7 @@ markers:
   - {type: indent, offset: 1904, content: 　　　, id: KR4d0070_krp_031-bkkind8}
   - {type: substitution, offset: 1906, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 1908, content: (, id: KR4d0070_krp_031-bkkpn1}
+  - {type: voice, offset: 1908, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 1910, content: /, id: KR4d0070_krp_031-bkkpn2}
   - {type: punctuation, offset: 1911, content: ), id: KR4d0070_krp_031-bkkpn3}
   - {type: 'kr:newline', offset: 1911, content: '
@@ -675,6 +676,7 @@ markers:
   - {type: line-break, offset: 2731, content: '', id: KR4d0070_WYG_031-9b02}
   - {type: indent, offset: 2731, content: 　　　, id: KR4d0070_krp_031-bkkind9}
   - {type: punctuation, offset: 2739, content: (, id: KR4d0070_krp_031-bkkpn4}
+  - {type: voice, offset: 2739, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2741, content: /, id: KR4d0070_krp_031-bkkpn5}
   - {type: punctuation, offset: 2742, content: ), id: KR4d0070_krp_031-bkkpn6}
   - {type: 'kr:newline', offset: 2742, content: '
@@ -1634,6 +1636,7 @@ markers:
   - {type: line-break, offset: 6634, content: '', id: KR4d0070_WYG_031-21b05}
   - {type: indent, offset: 6634, content: 　　　, id: KR4d0070_krp_031-bkkind16}
   - {type: punctuation, offset: 6642, content: (, id: KR4d0070_krp_031-bkkpn7}
+  - {type: voice, offset: 6642, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 6644, content: /, id: KR4d0070_krp_031-bkkpn8}
   - {type: punctuation, offset: 6645, content: ), id: KR4d0070_krp_031-bkkpn9}
   - {type: 'kr:newline', offset: 6645, content: '
@@ -1737,4 +1740,4 @@ markers:
 
       ', id: KR4d0070_krp_031-bkkkrnewl395}
   back: []
-hash: sha256:5e9ac0a1fc0b5adcfeb066193475d129862afcc15ed4d63b2eb171d740f451db
+hash: sha256:1129938f02082dac2e927a283c8f67be59a68e1c61d0020fa58931a5e678266e
